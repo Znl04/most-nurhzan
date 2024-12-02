@@ -5,3 +5,7 @@
 ## Second commit and push
 
 created new branch
+
+## Third commit and push 
+
+Completed homework
